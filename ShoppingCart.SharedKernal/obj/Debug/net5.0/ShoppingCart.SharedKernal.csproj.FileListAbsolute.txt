@@ -1,0 +1,12 @@
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\bin\Debug\net5.0\ShoppingCart.SharedKernal.deps.json
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\bin\Debug\net5.0\ShoppingCart.SharedKernal.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\bin\Debug\net5.0\ref\ShoppingCart.SharedKernal.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\bin\Debug\net5.0\ShoppingCart.SharedKernal.pdb
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\net5.0\ShoppingCart.SharedKernal.csprojAssemblyReference.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\net5.0\ShoppingCart.SharedKernal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\net5.0\ShoppingCart.SharedKernal.AssemblyInfoInputs.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\net5.0\ShoppingCart.SharedKernal.AssemblyInfo.cs
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\net5.0\ShoppingCart.SharedKernal.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\net5.0\ShoppingCart.SharedKernal.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\net5.0\ref\ShoppingCart.SharedKernal.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\net5.0\ShoppingCart.SharedKernal.pdb

@@ -1,0 +1,9 @@
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\bin\Debug\netcoreapp3.1\ShoppingCart.SharedKernal.deps.json
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\bin\Debug\netcoreapp3.1\ShoppingCart.SharedKernal.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\bin\Debug\netcoreapp3.1\ShoppingCart.SharedKernal.pdb
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\netcoreapp3.1\ShoppingCart.SharedKernal.csprojAssemblyReference.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\netcoreapp3.1\ShoppingCart.SharedKernal.AssemblyInfoInputs.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\netcoreapp3.1\ShoppingCart.SharedKernal.AssemblyInfo.cs
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\netcoreapp3.1\ShoppingCart.SharedKernal.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\netcoreapp3.1\ShoppingCart.SharedKernal.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.SharedKernal\obj\Debug\netcoreapp3.1\ShoppingCart.SharedKernal.pdb

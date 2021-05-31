@@ -1,0 +1,9 @@
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Core\bin\Debug\netcoreapp3.1\ShoppingCart.Core.deps.json
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Core\bin\Debug\netcoreapp3.1\ShoppingCart.Core.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Core\bin\Debug\netcoreapp3.1\ShoppingCart.Core.pdb
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Core\obj\Debug\netcoreapp3.1\ShoppingCart.Core.csprojAssemblyReference.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Core\obj\Debug\netcoreapp3.1\ShoppingCart.Core.AssemblyInfoInputs.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Core\obj\Debug\netcoreapp3.1\ShoppingCart.Core.AssemblyInfo.cs
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Core\obj\Debug\netcoreapp3.1\ShoppingCart.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Core\obj\Debug\netcoreapp3.1\ShoppingCart.Core.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Core\obj\Debug\netcoreapp3.1\ShoppingCart.Core.pdb

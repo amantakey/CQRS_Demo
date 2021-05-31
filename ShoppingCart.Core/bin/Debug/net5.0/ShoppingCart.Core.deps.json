@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ShoppingCart.Core/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "10.2.1",
+          "MediatR": "9.0.0",
+          "ShoppingCart.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "ShoppingCart.Core.dll": {}
+        }
+      },
+      "FluentValidation/10.2.1": {
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "10.2.1.0"
+          }
+        }
+      },
+      "MediatR/9.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        }
+      },
+      "ShoppingCart.Infrastructure/1.0.0": {
+        "runtime": {
+          "ShoppingCart.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingCart.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/10.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZFyVk+AXiWjML6M201GUbkhrmrUfd1U55LmOPOEHpw2bQ+STi0TIilXX3KlWvqt5AX5qSu+B1d/s/Ik5p6Tu3Q==",
+      "path": "fluentvalidation/10.2.1",
+      "hashPath": "fluentvalidation.10.2.1.nupkg.sha512"
+    },
+    "MediatR/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8b3UYNxegHVYcJMG2zH8wn+YqxLvXG+eMfj0cMCq/jTW72p6O3PCKMkrIv0mqyxdW7bA4gblsocw7n+/9Akg5g==",
+      "path": "mediatr/9.0.0",
+      "hashPath": "mediatr.9.0.0.nupkg.sha512"
+    },
+    "ShoppingCart.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

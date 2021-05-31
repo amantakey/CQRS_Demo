@@ -1,0 +1,12 @@
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\bin\Debug\net5.0\ShoppingCart.Infrastructure.deps.json
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\bin\Debug\net5.0\ShoppingCart.Infrastructure.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\bin\Debug\net5.0\ref\ShoppingCart.Infrastructure.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\bin\Debug\net5.0\ShoppingCart.Infrastructure.pdb
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\obj\Debug\net5.0\ShoppingCart.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\obj\Debug\net5.0\ShoppingCart.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\obj\Debug\net5.0\ShoppingCart.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\obj\Debug\net5.0\ShoppingCart.Infrastructure.AssemblyInfo.cs
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\obj\Debug\net5.0\ShoppingCart.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\obj\Debug\net5.0\ShoppingCart.Infrastructure.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\obj\Debug\net5.0\ref\ShoppingCart.Infrastructure.dll
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart.Infrastructure\obj\Debug\net5.0\ShoppingCart.Infrastructure.pdb

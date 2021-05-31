@@ -1,0 +1,5 @@
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.Web.csprojAssemblyReference.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.Web.AssemblyInfoInputs.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.Web.AssemblyInfo.cs
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.Web.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Takey\OneDrive\Desktop\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.Web.MvcApplicationPartsAssemblyInfo.cache
